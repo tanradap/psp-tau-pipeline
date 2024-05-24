@@ -1,0 +1,12 @@
+name: tau-pl-old
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imbalanced-learn=0.8.1
+  # - matplotlib
+  - pip
+  - python=3.8
+  - scikit-learn=0.24.1
+  # pip:
+    # - scikit-learn==0.2.4

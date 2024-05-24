@@ -1,0 +1,17 @@
+# To ignore all .txt files 
+*.txt 
+
+# To ignore all . files 
+.DS_Store
+
+# To ignore all saved models (.sav)
+*.sav 
+
+# To ignore all .jpg
+*.jpg
+
+# To ignore others
+*/__pycache__/
+
+*/.ipynb_checkpoints/
+*/.vscode/
