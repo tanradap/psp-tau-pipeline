@@ -1,4 +1,4 @@
-# PSP-tau-quantification
+# PSP-tau-pipeline
 
 This repository contains QuPath scripts for data pre-processing, python scripts & jupyter notebooks used to create the tau type-specific quantification pipeline for PSP postmortem brain. Folders are detailed below:
 
